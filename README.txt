@@ -3,5 +3,5 @@ C++
 コマンドラインで
 g++ main.cpp -o main
 と入力してコンパイルし
-./main
+./main dictionary-data.txt
 で実行
