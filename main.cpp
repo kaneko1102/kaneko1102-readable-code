@@ -1,6 +1,6 @@
 #include <iostream>
 #include <fstream>
-#include <cstdio>
+#include <string>
 
 int main(int argc, char** argv) {
     std::ifstream file(argv[1]);  // 読み込むファイルのパスを指定
